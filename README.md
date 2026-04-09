@@ -24,3 +24,6 @@ Siga os passos abaixo para executar o projeto localmente:
 E depois 
    ```bash
    npm run dev
+
+<img width="1915" height="1011" alt="image" src="https://github.com/user-attachments/assets/ab087576-4cb8-4fa6-b6bf-02dcb7c0a485" />
+
