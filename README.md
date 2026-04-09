@@ -21,3 +21,4 @@ Siga os passos abaixo para executar o projeto localmente:
 1. Instale as dependências:
    ```bash
    npm install
+   npm run dev
