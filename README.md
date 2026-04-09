@@ -1,31 +1,23 @@
-🐉# Sistema de Login e Cadastro🐉
+# 🐉 Sistema de Login e Cadastro 🐉
 
-Projeto simples de cadastro, login e autenticação de usuários usando React, Vite e Firebase.
+Projeto simples de cadastro, login e autenticação de usuários desenvolvido com **React**, **Vite** e **Firebase**.
 
-## Sobre
+## 📖 Sobre
+Este projeto permite que o usuário crie uma nova conta, realize login e mantenha sua sessão ativa através da autenticação do Firebase.
 
-Permite que o usuário crie uma conta, faça login e permaneça autenticado.
+## 💻 Tecnologias
+* ⚛️ **React**
+* ⚡ **Vite**
+* 🔥 **Firebase** (Auth)
 
-💻## Tecnologias
+## ⚙️ Funcionalidades
+* 👥 **Cadastro de usuário:** Criação de conta via e-mail e senha.
+* ✅ **Login:** Acesso seguro para usuários registrados.
+* 🔐 **Autenticação:** Gerenciamento de estado de login em tempo real.
 
-⚛️* React
-⚡* Vite
-🔥* Firebase
+## 🚩 Como rodar
+Siga os passos abaixo para executar o projeto localmente:
 
-⚙️## Funcionalidades
-
-👥* Cadastro de usuário
-✅* Login
-🔐* Autenticação
-
-🚩## Como rodar
-
-npm install
-npm run dev
-
-Acesse: http://localhost:5173
-
-
-📄## Licença
-
-Uso para estudo.
+1. Instale as dependências:
+   ```bash
+   npm install
